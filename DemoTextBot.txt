@@ -1,0 +1,1 @@
+https://web-chat.global.assistant.watson.cloud.ibm.com/preview.html?region=eu-de&integrationID=aaa7c36b-1687-46d2-873c-1e70d26bfdd5&serviceInstanceID=d67e9e5e-3b9a-4845-a861-c9adda6cc6df
